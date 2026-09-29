@@ -2,7 +2,7 @@ name: pipeline-de-deploy
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   deploy:
